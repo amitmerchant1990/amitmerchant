@@ -1,6 +1,6 @@
 {
   "name": "amitmerchant",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Amit Merchant's terminal business card",
   "main": "index.js",
   "scripts": {
