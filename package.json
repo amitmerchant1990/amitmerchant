@@ -1,0 +1,38 @@
+{
+  "name": "amitmerchant",
+  "version": "1.0.0",
+  "description": "Amit Merchant's terminal business card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitmerchant1990/amitmerchant.git"
+  },
+  "type": "module",
+  "bin": {
+    "amitmerchant": "index.js"
+  },
+  "keywords": [
+    "npx",
+    "business",
+    "card",
+    "terminal",
+    "cli",
+    "amitmerchant"
+  ],
+  "author": "Amit Merchant <bullredeyes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitmerchant1990/amitmerchant/issues"
+  },
+  "homepage": "https://github.com/amitmerchant1990/amitmerchant#readme",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0",
+    "inquirer": "^9.2.23",
+    "open": "^10.1.0"
+  }
+}
